@@ -202,7 +202,7 @@ switch (hoy) {
 
 3. **Ejecutar:**
    ```bash
-   java com.darkwhiskers.poker.Main
+   java com.darkwhiskers.Main
    ```
 
 ---
